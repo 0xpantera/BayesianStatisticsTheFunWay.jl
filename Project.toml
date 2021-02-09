@@ -1,0 +1,13 @@
+name = "BayesianStatisticsTheFunWay"
+uuid = "1e6bbed1-9ab9-4f14-9da1-f7b2f06b4d16"
+authors = ["Francososa <franky.sosa@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
